@@ -1,5 +1,5 @@
 
-# Project : blog-app
+# Project : Blog-app
 
 https://eyp-django-react-blog-app.herokuapp.com/
 
